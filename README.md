@@ -26,7 +26,7 @@ using the endpoint as a POST request:
 http://localhost:8080/JavaEEDemo/api/v1/todo/new
 ```
 
-## Differences with the Spring framework
+## Differences to the Spring framework
 
 The Java EE API is specified by the package `javax`. There is a significant amount of overlap between Spring and 'modern' Java EE (Jakarta EE). 
 
